@@ -35,7 +35,7 @@ gcc -o bf_to_cat bf_to_cat.c
 この手順で.catファイルが作れます
 
 ## 実行例
-フォルダ内のhello.catを使用すると"hello world!"が出力できます。
+フォルダ内のhello.catを使用すると"Hello World!"が出力できます。
 ```
 make run INPUT=hello.cat
 ```
